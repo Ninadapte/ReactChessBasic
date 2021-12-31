@@ -1,0 +1,14 @@
+board_container {
+  width: 1000px;
+  background-color: black;
+  overflow: hidden;
+}
+#root {
+  width: max-content;
+  border: 1px black solid;
+  padding: 10px;
+  margin: auto;
+}
+#break {
+  margin: -5px;
+}

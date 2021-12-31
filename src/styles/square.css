@@ -1,0 +1,24 @@
+.square {
+  display: inline-block;
+  border: 0px;
+  height: 75px;
+  width: 75px;
+}
+.black {
+  background-color: rgb(125 135 150);
+}
+.white {
+  background-color: rgb(232 235 239);
+}
+.piece {
+  margin-left: 15%;
+  margin-top: 31%;
+
+  cursor: pointer;
+}
+.valid_dot {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin: 25px;
+}
